@@ -1,0 +1,20 @@
+html{
+    background-image: url("../images/bats.gif");
+}
+
+body {
+    font-family: sans-serif;
+    width: 750px;
+    margin: 0 auto; 
+    background-color: white;
+    border: 5px solid black; 
+    box-shadow: 0px 1px 7px 7px rgb(0 0 0 /84%);
+}
+
+section h3{
+    font-size: 1.4em;
+}
+
+section p{
+    font-family: Arial, Verdana, sans-serif;
+}

@@ -1,0 +1,27 @@
+html{
+    background-image: url("../images/bats.gif");
+}
+
+body{
+    border: 2px solid black; 
+    box-shadow: 0px 1px 7px 7px rgb(0 0 0 /84%);
+}
+
+section h3{
+    margin: 10px 0 10px 0;
+    font-size: bold;
+    font-weight: 800;
+}
+
+section h4{
+    font-size: medium;
+    font-weight: 800;
+    color: #fea604;
+}
+
+p{
+    margin: 5px 0 5px 0;
+}
+p.price{
+    margin-top: 0;
+}
